@@ -15,3 +15,5 @@ Antes de proponer un nuevo webinar sigue las siguientes instrucciones:
 __Nota:__ Si se quiere realizar modificaciones posteriores como: agregar nuevos integrantes, correciones, etc; dichos cambios deben enviarse via [pull request](./pulls).
 
 ## Sesiones
+
+- __Sesión 1:__ [Introducción a Typescript - parte 1](./sesiones/01.md) - 25/05/2019
