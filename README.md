@@ -17,3 +17,4 @@ __Nota:__ Si se quiere realizar modificaciones posteriores como: agregar nuevos 
 ## Sesiones
 
 - __Sesión 1:__ [Introducción a Typescript - parte 1](./sesiones/01.md) - 25/05/2019
+- __Sesión 2:__ [Introducción a Typescript - parte 2](./sesiones/02.md) - 08/06/2019
