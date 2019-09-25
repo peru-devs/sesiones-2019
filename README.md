@@ -19,3 +19,4 @@ __Nota:__ Si se quiere realizar modificaciones posteriores como: agregar nuevos 
 - __Sesión 1:__ [Introducción a Typescript - parte 1](./sesiones/01.md) - 25/05/2019
 - __Sesión 2:__ [Introducción a Typescript - parte 2](./sesiones/02.md) - 08/06/2019
 - __Sesión 3:__ [Introducción a Typescript - parte 3](./sesiones/03.md) - 13/07/2019
+- __Sesión 3:__ [Introducción al lenguaje de programación GO - parte 1](./sesiones/04.md) - 28/09/2019
